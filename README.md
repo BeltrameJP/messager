@@ -20,3 +20,5 @@ Casos que os testes unitários cobrem:
  - Enviar mensagem privada
  - Verificação de nicknames iguais
  - Mensagens em broadcast
+
+Todas as outras features foram testadas em modo caixa preta.
